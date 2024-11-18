@@ -1,1 +1,1 @@
-worker node nuker.js
+worker npm start

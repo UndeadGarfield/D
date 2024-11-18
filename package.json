@@ -1,13 +1,13 @@
 {
-  "name": "vortex",
+  "name": "discord-selfbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Discord.js selfbot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "chalk": "^3.0.0",
-    "discord.js": "^12.5.1"
+    "discord.js": "^11.5.1"
   }
 }
