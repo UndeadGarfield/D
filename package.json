@@ -1,0 +1,13 @@
+{
+  "name": "vortex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "discord.js": "^12.5.1"
+  }
+}
